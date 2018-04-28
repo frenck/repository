@@ -1,10 +1,5 @@
 ---
-name: Community Hass.io Add-ons
-url: https://github.com/hassio-addons/repository
-maintainer: "Franck Nijhof <frenck@addons.community>"
-stable: true
-beta: false
-edge: false
+channel: stable
 addons:
   aircast:
     repository: hassio-addons/addon-aircast
@@ -21,7 +16,7 @@ addons:
   appdaemon3:
     repository: hassio-addons/addon-appdaemon3
     target: appdaemon
-    image: hassioaddons/appdaemon3
+    image: hassioaddons/appdaemon3-{arch}
   control-panel:
     repository: hassio-addons/addon-control-panel
     target: control-panel
