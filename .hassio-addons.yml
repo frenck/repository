@@ -1,5 +1,5 @@
 ---
-channel: stable
+channel: edge
 addons:
   aircast:
     repository: hassio-addons/addon-aircast
