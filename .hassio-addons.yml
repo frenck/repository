@@ -26,7 +26,7 @@ addons:
     target: example
     image: hassioaddons/example-{arch}
   example2:
-    repository: hassio-addons/addon-example
+    repository: frenck/addon-example
     target: example
     image: hassioaddons/example-{arch}
   ftp:
