@@ -96,6 +96,19 @@ Example add-on by Community Hass.io Add-ons
 
 [:books: Example add-on documentation][addon-doc-example]
 
+### &#10003; [Example][addon-example2]
+
+![Latest Version][example2-version-shield]
+![Supports armhf Architecture][example2-armhf-shield]
+![Supports aarch64 Architecture][example2-aarch64-shield]
+![Supports amd64 Architecture][example2-amd64-shield]
+![Supports i386 Architecture][example2-i386-shield]
+![Docker Pulls][example2-pulls-shield]
+
+Example add-on by Community Hass.io Add-ons
+
+[:books: Example add-on documentation][addon-doc-example2]
+
 ### &#10003; [FTP][addon-ftp]
 
 ![Latest Version][ftp-version-shield]
@@ -242,6 +255,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: AppDaemon2][appdaemon-issue]
 - [Open an issue for the add-on: AppDaemon3][appdaemon3-issue]
 - [Open an issue for the add-on: Example][example-issue]
+- [Open an issue for the add-on: Example][example2-issue]
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
@@ -352,6 +366,15 @@ SOFTWARE.
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-example2]: https://github.com/frenck/addon-example/tree/37db584
+[addon-doc-example2]: https://github.com/frenck/addon-example/blob/37db584/README.md
+[example2-issue]: https://github.com/frenck/addon-example/issues
+[example2-version-shield]: https://img.shields.io/badge/version-37db584-blue.svg
+[example2-pulls-shield]: https://img.shields.io/docker/pulls/frenck/example.svg
+[example2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[example2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[example2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[example2-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/v1.0.0
 [addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/v1.0.0/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
