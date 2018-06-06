@@ -366,10 +366,10 @@ SOFTWARE.
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-example2]: https://github.com/frenck/addon-example/tree/3173b2d
-[addon-doc-example2]: https://github.com/frenck/addon-example/blob/3173b2d/README.md
+[addon-example2]: https://github.com/frenck/addon-example/tree/7e9d031
+[addon-doc-example2]: https://github.com/frenck/addon-example/blob/7e9d031/README.md
 [example2-issue]: https://github.com/frenck/addon-example/issues
-[example2-version-shield]: https://img.shields.io/badge/version-3173b2d-blue.svg
+[example2-version-shield]: https://img.shields.io/badge/version-7e9d031-blue.svg
 [example2-pulls-shield]: https://img.shields.io/docker/pulls/frenck/example.svg
 [example2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
